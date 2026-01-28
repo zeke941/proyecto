@@ -1,4 +1,4 @@
-# proyecto
+# APP
 Esta es una aplicación web interactiva construida con **Streamlit** para explorar un conjunto de datos de anuncios de venta de coches en Estados Unidos. Los datos provienen de un archivo CSV llamado `vehicles_us.csv`, que contiene información como el precio, el kilometraje, el modelo del vehículo, el tipo de combustible, la condición, y otros detalles relevantes.
 
 ## Funcionalidades
@@ -16,5 +16,6 @@ Esta es una aplicación web interactiva construida con **Streamlit** para explor
 1. Asegúrate de tener `Python` y `Streamlit` instalados.
 2. Coloca el archivo `vehicles_us.csv` en el mismo directorio que `app.py`.
 3. Ejecuta la aplicación desde la terminal con:
+
 
 streamlit run app.py
